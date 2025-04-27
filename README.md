@@ -1,2 +1,2 @@
 # MathProject24-25
-This repository is for my math project
+Welcome to my math project. In this repo, I'll explore RStudio.
